@@ -1,4 +1,4 @@
-FROM python:3.7.7
+FROM python:3.12.0a4
 WORKDIR /TestCode
 
 COPY . TestCode/
